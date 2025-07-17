@@ -101,3 +101,4 @@ getKeyButton.Parent = mainFrame
 -- Create the "Check Key" button
 local checkKeyButton = Instance.new("TextButton")
 checkKeyButton.Size = U
+
